@@ -54,8 +54,8 @@ jobs:
 
       - name: Commit file
         run: |
-          git config --global user.email simonsqiu@foxmail.com
-          git config --global user.name SimonsQiu
+          git config --global user.email black.smith0611@gmail.com
+          git config --global user.name titor
           git add .
           git commit -m "Update `date +%Y/%m/%d\ %H:%M:%S\ %Z`" -a
 
