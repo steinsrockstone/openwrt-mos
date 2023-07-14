@@ -1,8 +1,7 @@
 name: Update-CI
 
 on:
-  schedule:
-    - cron: 0 16 * * *
+  workflow_dispatch:
   watch:
     types: [started]
   #push:
