@@ -9492,7 +9492,6 @@ ajvzis.triumph.com
 ajxx98.online
 ajyrsxdvbyc.xyz
 ak-br-cdn.kwai.net.iberostar.com
-ak-d.tripcdn.com
 ak-tracker.com
 ak0gsh40.com
 ak47.cooguo.com
@@ -13494,7 +13493,6 @@ audacitycompare.com
 audgiqb.cn
 audiblereflectionsenterprising.com
 audiblysecretaryburied.com
-audid-api.taobao.com
 audid.umeng.com
 audience-mostread.r7.com
 audience.newscgp.com
@@ -42475,7 +42473,6 @@ iaxwnffhikiac.com
 iazwzp.lyst.com
 ib-ibi.com
 ib.adnxs.com
-ib.snssdk.com
 ib00.cn
 ibafnw.cn
 ibamolecular.actonservice.com
@@ -53632,7 +53629,6 @@ m.imiek.com
 m.imykgs.com
 m.infvb.com
 m.inqra.cn
-m.intl.taobao.com
 m.io019p.cn
 m.ioicommunity.com.my
 m.iorgb.com
@@ -96262,7 +96258,6 @@ v5.cnzz.com
 v5.juzi.cn
 v5ad.com
 v6-adashx.ut.amap.com
-v6-adashx.ut.cainiao.com
 v6-adashx.ut.ele.me
 v6-adashx.ut.taobao.com
 v6.cnzz.com
@@ -97163,7 +97158,6 @@ vip-datings.life
 vip-vip-vup.com
 vip.51.la
 vip.agentteam.com.au
-vip.cainiaofx.com
 vip.catcs.cn
 vip.german.ni.com
 vip.gophersport.com
